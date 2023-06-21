@@ -38,3 +38,4 @@ My name is Fernando Contreas, I am developer with more than five years of experi
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 - [API's created with framework serverless and lambdas services from AWS configuring APIGateway](https://github.com/frcho10/serverless-java.git)
 ---
+###### Note: This repositories were created using basic things that I learned in big proyects working in companies and consultants.
