@@ -31,7 +31,7 @@ My name is Fernando Contreas, I am developer with more than five years of experi
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
--[WebApp created in React using ReactRouter and Redux (comparing conventional Redux vs ReduxToolkit)](https://github.com/frcho10/redux-react-antd.git)
+- [WebApp created in React using ReactRouter and Redux (comparing conventional Redux vs ReduxToolkit)](https://github.com/frcho10/redux-react-antd.git)
 
 ---
 **Cloud Dev** <br>
