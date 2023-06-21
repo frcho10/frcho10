@@ -31,11 +31,19 @@ My name is Fernando Contreas, I am developer with more than five years of experi
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-- [WebApp created in React using ReactRouter and Redux (comparing conventional Redux vs ReduxToolkit)](https://github.com/frcho10/redux-react-antd.git)
+- [WebApp created in React using ReactRouter and Redux (comparing conventional Redux vs ReduxToolkit)](https://github.com/frcho10/redux-react-antd.git)<br>
+
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![css](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- [Pokedex App](https://github.com/frcho10/ejercicioPokedex.git)
 
 ---
 **Cloud Dev** <br>
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 - [API's created with framework serverless and lambdas services from AWS configuring APIGateway](https://github.com/frcho10/serverless-java.git)
 ---
 ###### Note: This repositories were created using basic things that I learned in big proyects working in companies and consultants.
