@@ -19,10 +19,22 @@ My name is Fernando Contreas, I am developer with more than five years of experi
 
 #### **Here there are some repositories I've created:**
 ---
-**Mobile Dev** </br> </br>
+**Mobile Dev** <br> <br>
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - [App to admin daily spends](https://github.com/frcho10/appGestionGastosJs.git)
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 - [App created to use basic components with UIKit](https://github.com/frcho10/appIosBasicComponents.git)
+---
+**Web Dev** <br> <br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+-[WebApp created in React using ReactRouter and Redux (comparing conventional Redux vs ReduxToolkit)](https://github.com/frcho10/redux-react-antd.git)
+
+---
+**Cloud Dev** <br>
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+- [API's created with framework serverless and lambdas services from AWS configuring APIGateway](https://github.com/frcho10/serverless-java.git)
 ---
