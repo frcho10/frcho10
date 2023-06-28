@@ -39,6 +39,10 @@ My name is Fernando Contreas, I am developer with more than five years of experi
 ![css](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 - [Pokedex App](https://github.com/frcho10/ejercicioPokedex.git)
 
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+- [Users Administrator](https://github.com/frcho10/adminUsersPhp)
+
 ---
 **Cloud Dev** <br>
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
