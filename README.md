@@ -25,6 +25,7 @@ My name is Fernando Contreas, I am developer with more than five years of experi
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 - [App created to use basic components with UIKit](https://github.com/frcho10/appIosBasicComponents.git)
+- [App Calculator](https://github.com/frcho10/calculatorReplica/tree/main)
 ---
 **Web Dev** <br> <br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
